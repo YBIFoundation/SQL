@@ -1,0 +1,2 @@
+# SQLProjectIdeas
+SQL Base Projects
