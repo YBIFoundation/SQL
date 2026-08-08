@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,city
+WH001,Delhi Warehouse,Delhi
+WH002,Mumbai Warehouse,Mumbai
+WH003,Bangalore Warehouse,Bangalore
+WH004,Chennai Warehouse,Chennai
+WH005,Hyderabad Warehouse,Hyderabad
+WH006,Pune Warehouse,Pune
+WH007,Kolkata Warehouse,Kolkata
+WH008,Jaipur Warehouse,Jaipur
+WH009,Ahmedabad Warehouse,Ahmedabad
+WH010,Lucknow Warehouse,Lucknow
