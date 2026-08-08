@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_price
+PROD001,Laptop,Electronics,18789.55
+PROD002,Smartphone,Electronics,47540.64
+PROD003,Tablet,Electronics,36626.5
+PROD004,Smart Watch,Electronics,29973.06
+PROD005,Bluetooth Speaker,Electronics,7885.33
+PROD006,Headphones,Electronics,7884.13
+PROD007,Keyboard,Electronics,2998.37
+PROD008,Mouse,Electronics,43322.19
+PROD009,Monitor,Electronics,30095.64
+PROD010,Power Bank,Electronics,35432.82
+PROD011,Mixer Grinder,Home,1127.17
+PROD012,Electric Kettle,Home,48498.5
+PROD013,Vacuum Cleaner,Home,41638.89
+PROD014,Air Purifier,Home,10695.72
+PROD015,Iron,Home,9173.07
+PROD016,Coffee Maker,Home,9251.89
+PROD017,Toaster,Home,15281.69
+PROD018,Fan,Home,26285.35
+PROD019,Room Heater,Home,21654.06
+PROD020,Water Purifier,Home,14632.33
+PROD021,T-Shirt,Fashion,30631.46
+PROD022,Jeans,Fashion,7060.74
+PROD023,Jacket,Fashion,14678.02
+PROD024,Sneakers,Fashion,18381.46
+PROD025,Formal Shirt,Fashion,22857.89
+PROD026,Dress,Fashion,39280.28
+PROD027,Saree,Fashion,10063.72
+PROD028,Kurta,Fashion,25760.3
+PROD029,Track Pants,Fashion,29661.49
+PROD030,Handbag,Fashion,2417.88
+PROD031,Face Wash,Beauty,30416.49
+PROD032,Shampoo,Beauty,8609.15
+PROD033,Conditioner,Beauty,3346.07
+PROD034,Face Cream,Beauty,47449.39
+PROD035,Lipstick,Beauty,48285.04
+PROD036,Perfume,Beauty,40439.03
+PROD037,Body Lotion,Beauty,15300.23
+PROD038,Sunscreen,Beauty,4973.84
+PROD039,Hair Oil,Beauty,34243.23
+PROD040,Makeup Kit,Beauty,22063.61
+PROD041,Rice,Grocery,6189.71
+PROD042,Wheat Flour,Grocery,24809.33
+PROD043,Cooking Oil,Grocery,1815.99
+PROD044,Sugar,Grocery,45475.09
+PROD045,Tea,Grocery,13013.12
+PROD046,Coffee,Grocery,33159.86
+PROD047,Biscuits,Grocery,15654.38
+PROD048,Pasta,Grocery,26051.39
+PROD049,Breakfast Cereal,Grocery,27380.84
+PROD050,Spices,Grocery,9324.24
